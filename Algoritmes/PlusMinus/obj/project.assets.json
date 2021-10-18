@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\In5pekt0r\\source\\repos\\Algoritmes\\PlusMinus\\PlusMinus.csproj",
+      "projectUniqueName": "C:\\Users\\In5pekt0r\\source\\repos\\algs\\Algoritmes\\PlusMinus\\PlusMinus.csproj",
       "projectName": "PlusMinus",
-      "projectPath": "C:\\Users\\In5pekt0r\\source\\repos\\Algoritmes\\PlusMinus\\PlusMinus.csproj",
+      "projectPath": "C:\\Users\\In5pekt0r\\source\\repos\\algs\\Algoritmes\\PlusMinus\\PlusMinus.csproj",
       "packagesPath": "C:\\Users\\In5pekt0r\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\In5pekt0r\\source\\repos\\Algoritmes\\PlusMinus\\obj\\",
+      "outputPath": "C:\\Users\\In5pekt0r\\source\\repos\\algs\\Algoritmes\\PlusMinus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\In5pekt0r\\AppData\\Roaming\\NuGet\\NuGet.Config",

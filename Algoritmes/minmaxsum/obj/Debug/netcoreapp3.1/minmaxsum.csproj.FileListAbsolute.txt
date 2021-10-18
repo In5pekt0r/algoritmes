@@ -1,0 +1,13 @@
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\minmaxsum\bin\Debug\netcoreapp3.1\minmaxsum.exe
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\minmaxsum\bin\Debug\netcoreapp3.1\minmaxsum.deps.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\minmaxsum\bin\Debug\netcoreapp3.1\minmaxsum.runtimeconfig.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\minmaxsum\bin\Debug\netcoreapp3.1\minmaxsum.runtimeconfig.dev.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\minmaxsum\bin\Debug\netcoreapp3.1\minmaxsum.dll
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\minmaxsum\bin\Debug\netcoreapp3.1\minmaxsum.pdb
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\minmaxsum\obj\Debug\netcoreapp3.1\minmaxsum.csprojAssemblyReference.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\minmaxsum\obj\Debug\netcoreapp3.1\minmaxsum.AssemblyInfoInputs.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\minmaxsum\obj\Debug\netcoreapp3.1\minmaxsum.AssemblyInfo.cs
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\minmaxsum\obj\Debug\netcoreapp3.1\minmaxsum.csproj.CoreCompileInputs.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\minmaxsum\obj\Debug\netcoreapp3.1\minmaxsum.dll
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\minmaxsum\obj\Debug\netcoreapp3.1\minmaxsum.pdb
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\minmaxsum\obj\Debug\netcoreapp3.1\minmaxsum.genruntimeconfig.cache
