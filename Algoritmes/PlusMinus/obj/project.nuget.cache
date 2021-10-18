@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8eB+8jWcVbdR4v1ISB6up1ivrdTJRpcN3MZQpNV/QPh9Z6Q+N98GmnZP4pZU57XPl8xSyiVnqFuEUkhFZ2C6dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\In5pekt0r\\source\\repos\\Algoritmes\\PlusMinus\\PlusMinus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\In5pekt0r\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
