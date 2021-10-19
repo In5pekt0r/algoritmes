@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversation", "TimeCon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakingRecords", "BreakingRecords\BreakingRecords.csproj", "{BC263422-BACD-4A3E-9FD2-D486FABB5E96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumpar", "sumpar\sumpar.csproj", "{9940799C-65A3-4AB9-9C4C-CD347680F467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparseArrays", "SparseArrays\SparseArrays.csproj", "{7EFE187F-090E-4DC7-88D0-09292C7A208A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{BC263422-BACD-4A3E-9FD2-D486FABB5E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC263422-BACD-4A3E-9FD2-D486FABB5E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC263422-BACD-4A3E-9FD2-D486FABB5E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9940799C-65A3-4AB9-9C4C-CD347680F467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9940799C-65A3-4AB9-9C4C-CD347680F467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9940799C-65A3-4AB9-9C4C-CD347680F467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9940799C-65A3-4AB9-9C4C-CD347680F467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EFE187F-090E-4DC7-88D0-09292C7A208A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EFE187F-090E-4DC7-88D0-09292C7A208A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EFE187F-090E-4DC7-88D0-09292C7A208A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EFE187F-090E-4DC7-88D0-09292C7A208A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

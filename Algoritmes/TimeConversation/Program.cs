@@ -43,15 +43,12 @@ class Solution
 {
     public static void Main(string[] args)
     {
-        TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
         string s = Console.ReadLine();
 
         string result = Result.timeConversion(s);
 
-        textWriter.WriteLine(result);
+        Console.WriteLine(result);
 
-        textWriter.Flush();
-        textWriter.Close();
     }
 }
