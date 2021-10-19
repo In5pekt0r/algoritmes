@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CiLn6EHwovfQy5vdkkgQCodiDbkRUCnm30Kx9yj/qa4Xb3hVW3ky2QQ+RXftEV0qYKvAyu+DLldULcS9tewWgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\In5pekt0r\\source\\repos\\algs\\Algoritmes\\BreakingRecords\\BreakingRecords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\In5pekt0r\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

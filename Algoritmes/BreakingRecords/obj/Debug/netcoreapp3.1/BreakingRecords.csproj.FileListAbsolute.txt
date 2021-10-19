@@ -1,0 +1,12 @@
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\BreakingRecords\bin\Debug\netcoreapp3.1\BreakingRecords.exe
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\BreakingRecords\bin\Debug\netcoreapp3.1\BreakingRecords.deps.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\BreakingRecords\bin\Debug\netcoreapp3.1\BreakingRecords.runtimeconfig.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\BreakingRecords\bin\Debug\netcoreapp3.1\BreakingRecords.runtimeconfig.dev.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\BreakingRecords\bin\Debug\netcoreapp3.1\BreakingRecords.dll
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\BreakingRecords\bin\Debug\netcoreapp3.1\BreakingRecords.pdb
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\BreakingRecords\obj\Debug\netcoreapp3.1\BreakingRecords.AssemblyInfoInputs.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\BreakingRecords\obj\Debug\netcoreapp3.1\BreakingRecords.AssemblyInfo.cs
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\BreakingRecords\obj\Debug\netcoreapp3.1\BreakingRecords.csproj.CoreCompileInputs.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\BreakingRecords\obj\Debug\netcoreapp3.1\BreakingRecords.dll
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\BreakingRecords\obj\Debug\netcoreapp3.1\BreakingRecords.pdb
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\BreakingRecords\obj\Debug\netcoreapp3.1\BreakingRecords.genruntimeconfig.cache
