@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W7rgmV8judqhhY+85qhkMxJvrD9jA0I1HcDx3lw6tWJ5+spH4VQmno2mJ8A1abwQ+vzGIyK4nwxER+DBje9zHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\In5pekt0r\\source\\repos\\algs\\Algoritmes\\CheckAlphabet\\CheckAlphabet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\In5pekt0r\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

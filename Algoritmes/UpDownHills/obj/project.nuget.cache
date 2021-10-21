@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d2fIMP+M/ccRlLdB2NX4Y5yXVd/Bh9u41WSpzsbVzkaWKLWPWu0PWiUKw6UR0ungWxFFnE3R4WSdk4Dx35Cq2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\In5pekt0r\\source\\repos\\algs\\Algoritmes\\UpDownHills\\UpDownHills.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\In5pekt0r\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

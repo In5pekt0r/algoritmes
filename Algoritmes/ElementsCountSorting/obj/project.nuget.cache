@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eiLUyggAnK574K2Mh/YRsdnuUUqx9IfJdeOTlkfXxoJyJQqhuRKCrIv9J4BR5+Yow1ETMoUFbgxTnr02vKlXjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\In5pekt0r\\source\\repos\\algs\\Algoritmes\\ElementsCountSorting\\ElementsCountSorting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\In5pekt0r\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
