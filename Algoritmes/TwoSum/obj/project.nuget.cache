@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B9+PFWeGD70Byraxrd5Puw80BN5ThKoS2Yn6Kjol78bCECB4pl2ubHehd2iUs/YVg3fCeAp1uQh+SD7BGaPV5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\In5pekt0r\\source\\repos\\algs\\Algoritmes\\TwoSum\\TwoSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\In5pekt0r\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\LongestPrefix\bin\Debug\netcoreapp3.1\LongestPrefix.exe
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\LongestPrefix\bin\Debug\netcoreapp3.1\LongestPrefix.deps.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\LongestPrefix\bin\Debug\netcoreapp3.1\LongestPrefix.runtimeconfig.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\LongestPrefix\bin\Debug\netcoreapp3.1\LongestPrefix.runtimeconfig.dev.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\LongestPrefix\bin\Debug\netcoreapp3.1\LongestPrefix.dll
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\LongestPrefix\bin\Debug\netcoreapp3.1\LongestPrefix.pdb
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\LongestPrefix\obj\Debug\netcoreapp3.1\LongestPrefix.csprojAssemblyReference.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\LongestPrefix\obj\Debug\netcoreapp3.1\LongestPrefix.AssemblyInfoInputs.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\LongestPrefix\obj\Debug\netcoreapp3.1\LongestPrefix.AssemblyInfo.cs
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\LongestPrefix\obj\Debug\netcoreapp3.1\LongestPrefix.csproj.CoreCompileInputs.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\LongestPrefix\obj\Debug\netcoreapp3.1\LongestPrefix.dll
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\LongestPrefix\obj\Debug\netcoreapp3.1\LongestPrefix.pdb
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\LongestPrefix\obj\Debug\netcoreapp3.1\LongestPrefix.genruntimeconfig.cache

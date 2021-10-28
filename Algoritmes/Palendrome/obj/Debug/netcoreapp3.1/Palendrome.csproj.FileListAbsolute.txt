@@ -1,0 +1,13 @@
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\Palendrome\bin\Debug\netcoreapp3.1\Palendrome.exe
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\Palendrome\bin\Debug\netcoreapp3.1\Palendrome.deps.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\Palendrome\bin\Debug\netcoreapp3.1\Palendrome.runtimeconfig.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\Palendrome\bin\Debug\netcoreapp3.1\Palendrome.runtimeconfig.dev.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\Palendrome\bin\Debug\netcoreapp3.1\Palendrome.dll
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\Palendrome\bin\Debug\netcoreapp3.1\Palendrome.pdb
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\Palendrome\obj\Debug\netcoreapp3.1\Palendrome.csprojAssemblyReference.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\Palendrome\obj\Debug\netcoreapp3.1\Palendrome.AssemblyInfoInputs.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\Palendrome\obj\Debug\netcoreapp3.1\Palendrome.AssemblyInfo.cs
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\Palendrome\obj\Debug\netcoreapp3.1\Palendrome.csproj.CoreCompileInputs.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\Palendrome\obj\Debug\netcoreapp3.1\Palendrome.dll
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\Palendrome\obj\Debug\netcoreapp3.1\Palendrome.pdb
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\Palendrome\obj\Debug\netcoreapp3.1\Palendrome.genruntimeconfig.cache

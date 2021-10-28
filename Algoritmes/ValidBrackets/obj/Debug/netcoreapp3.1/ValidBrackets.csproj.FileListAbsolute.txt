@@ -1,0 +1,13 @@
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\ValidBrackets\bin\Debug\netcoreapp3.1\ValidBrackets.exe
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\ValidBrackets\bin\Debug\netcoreapp3.1\ValidBrackets.deps.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\ValidBrackets\bin\Debug\netcoreapp3.1\ValidBrackets.runtimeconfig.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\ValidBrackets\bin\Debug\netcoreapp3.1\ValidBrackets.runtimeconfig.dev.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\ValidBrackets\bin\Debug\netcoreapp3.1\ValidBrackets.dll
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\ValidBrackets\bin\Debug\netcoreapp3.1\ValidBrackets.pdb
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\ValidBrackets\obj\Debug\netcoreapp3.1\ValidBrackets.csprojAssemblyReference.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\ValidBrackets\obj\Debug\netcoreapp3.1\ValidBrackets.AssemblyInfoInputs.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\ValidBrackets\obj\Debug\netcoreapp3.1\ValidBrackets.AssemblyInfo.cs
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\ValidBrackets\obj\Debug\netcoreapp3.1\ValidBrackets.csproj.CoreCompileInputs.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\ValidBrackets\obj\Debug\netcoreapp3.1\ValidBrackets.dll
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\ValidBrackets\obj\Debug\netcoreapp3.1\ValidBrackets.pdb
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\ValidBrackets\obj\Debug\netcoreapp3.1\ValidBrackets.genruntimeconfig.cache

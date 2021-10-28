@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3n6cwcfZysZnYxwdorz3XKuiJR3d6JMc89e4AOs4pUOnP1FuRefdc8k0FbVnOb/HgHuJxgX8m4F48uTbqm8LEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\In5pekt0r\\source\\repos\\algs\\Algoritmes\\ValidBrackets\\ValidBrackets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\In5pekt0r\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

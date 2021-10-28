@@ -1,0 +1,13 @@
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\RomanianNumber\bin\Debug\netcoreapp3.1\RomanianNumber.exe
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\RomanianNumber\bin\Debug\netcoreapp3.1\RomanianNumber.deps.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\RomanianNumber\bin\Debug\netcoreapp3.1\RomanianNumber.runtimeconfig.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\RomanianNumber\bin\Debug\netcoreapp3.1\RomanianNumber.runtimeconfig.dev.json
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\RomanianNumber\bin\Debug\netcoreapp3.1\RomanianNumber.dll
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\RomanianNumber\bin\Debug\netcoreapp3.1\RomanianNumber.pdb
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\RomanianNumber\obj\Debug\netcoreapp3.1\RomanianNumber.csprojAssemblyReference.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\RomanianNumber\obj\Debug\netcoreapp3.1\RomanianNumber.AssemblyInfoInputs.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\RomanianNumber\obj\Debug\netcoreapp3.1\RomanianNumber.AssemblyInfo.cs
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\RomanianNumber\obj\Debug\netcoreapp3.1\RomanianNumber.csproj.CoreCompileInputs.cache
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\RomanianNumber\obj\Debug\netcoreapp3.1\RomanianNumber.dll
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\RomanianNumber\obj\Debug\netcoreapp3.1\RomanianNumber.pdb
+C:\Users\In5pekt0r\source\repos\algs\Algoritmes\RomanianNumber\obj\Debug\netcoreapp3.1\RomanianNumber.genruntimeconfig.cache

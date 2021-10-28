@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cCaGDURDosu6WtdvWRWDP/bL7DnyjhfmbyfMZPve4dELl1sLmepC/Vh1Pzn/ehC95BVOQpuIcRhMEW/iwpWsyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\In5pekt0r\\source\\repos\\algs\\Algoritmes\\LongestPrefix\\LongestPrefix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\In5pekt0r\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

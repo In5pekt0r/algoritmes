@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xQm6hjHWFkdKNkrNfuTBq7nguArlWKD9HD+V80dG++XOBGzQHEtTXGXmGpn74jgCcBo9TqatRJ1ZiGcPCr8toA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\In5pekt0r\\source\\repos\\algs\\Algoritmes\\RomanianNumber\\RomanianNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\In5pekt0r\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
